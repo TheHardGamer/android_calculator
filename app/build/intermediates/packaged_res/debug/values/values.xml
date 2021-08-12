@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="green">#43A047</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add">+</string>
+    <string name="app_name">Calculator</string>
+    <string name="clear">C</string>
+    <string name="display">Welcome!</string>
+    <string name="divide">\u00F7</string>
+    <string name="dot">.</string>
+    <string name="eight">8</string>
+    <string name="equal">=</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <string name="multiply">*</string>
+    <string name="nine">9</string>
+    <string name="one">1</string>
+    <string name="seven">7</string>
+    <string name="six">6</string>
+    <string name="subtract">-</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="zero">0</string>
+</resources>
