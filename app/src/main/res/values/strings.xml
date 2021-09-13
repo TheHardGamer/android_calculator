@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practical6</string>
+    <string name="book">Book Name</string>
+    <string name="issue">Issue Date</string>
+    <string name="due">Due Date</string>
+    <string name="submit">Submit Date</string>
+    <string name="overdue">Overdue Charge per day</string>
+    <string name="button">Submit</string>
+</resources>
